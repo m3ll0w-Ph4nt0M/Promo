@@ -1,0 +1,117 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/03/2017 09:14
+  	*/
+
+@font-face {
+  font-family: "Flaticon1";
+  src: url("./Flaticon1.eot");
+  src: url("./Flaticon1.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon1.woff") format("woff"),
+       url("./Flaticon1.ttf") format("truetype"),
+       url("./Flaticon1.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon1";
+    src: url("./Flaticon1.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon1-"]:before, [class*=" flaticon1-"]:before,
+[class^="flaticon1-"]:after, [class*=" flaticon1-"]:after {   
+  font-family: Flaticon1;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon1-air-conditioner:before { content: "\f100"; }
+.flaticon1-air-conditioner-1:before { content: "\f101"; }
+.flaticon1-air-conditioner-2:before { content: "\f102"; }
+.flaticon1-air-conditioner-3:before { content: "\f103"; }
+.flaticon1-air-conditioner-4:before { content: "\f104"; }
+.flaticon1-air-pump:before { content: "\f105"; }
+.flaticon1-airbag:before { content: "\f106"; }
+.flaticon1-alloy-wheel:before { content: "\f107"; }
+.flaticon1-alloy-wheel-1:before { content: "\f108"; }
+.flaticon1-alloy-wheel-2:before { content: "\f109"; }
+.flaticon1-alloy-wheel-3:before { content: "\f10a"; }
+.flaticon1-alloy-wheel-4:before { content: "\f10b"; }
+.flaticon1-alloy-wheel-5:before { content: "\f10c"; }
+.flaticon1-alloy-wheel-6:before { content: "\f10d"; }
+.flaticon1-alloy-wheel-7:before { content: "\f10e"; }
+.flaticon1-alloy-wheel-8:before { content: "\f10f"; }
+.flaticon1-alloy-wheel-9:before { content: "\f110"; }
+.flaticon1-battery:before { content: "\f111"; }
+.flaticon1-break:before { content: "\f112"; }
+.flaticon1-break-1:before { content: "\f113"; }
+.flaticon1-break-2:before { content: "\f114"; }
+.flaticon1-break-3:before { content: "\f115"; }
+.flaticon1-car:before { content: "\f116"; }
+.flaticon1-car-1:before { content: "\f117"; }
+.flaticon1-car-2:before { content: "\f118"; }
+.flaticon1-car-3:before { content: "\f119"; }
+.flaticon1-car-4:before { content: "\f11a"; }
+.flaticon1-car-5:before { content: "\f11b"; }
+.flaticon1-car-6:before { content: "\f11c"; }
+.flaticon1-car-key:before { content: "\f11d"; }
+.flaticon1-car-key-1:before { content: "\f11e"; }
+.flaticon1-car-lights:before { content: "\f11f"; }
+.flaticon1-car-lights-1:before { content: "\f120"; }
+.flaticon1-car-lights-2:before { content: "\f121"; }
+.flaticon1-catalytic-converter:before { content: "\f122"; }
+.flaticon1-chassis:before { content: "\f123"; }
+.flaticon1-damper:before { content: "\f124"; }
+.flaticon1-dashboard:before { content: "\f125"; }
+.flaticon1-dashboard-1:before { content: "\f126"; }
+.flaticon1-dashboard-2:before { content: "\f127"; }
+.flaticon1-dashboard-3:before { content: "\f128"; }
+.flaticon1-dashboard-4:before { content: "\f129"; }
+.flaticon1-engine:before { content: "\f12a"; }
+.flaticon1-engine-1:before { content: "\f12b"; }
+.flaticon1-exhaust:before { content: "\f12c"; }
+.flaticon1-exhaust-1:before { content: "\f12d"; }
+.flaticon1-exhaust-2:before { content: "\f12e"; }
+.flaticon1-fog-light:before { content: "\f12f"; }
+.flaticon1-frost:before { content: "\f130"; }
+.flaticon1-frost-1:before { content: "\f131"; }
+.flaticon1-gas-station:before { content: "\f132"; }
+.flaticon1-gearshift:before { content: "\f133"; }
+.flaticon1-gearshift-1:before { content: "\f134"; }
+.flaticon1-indicators:before { content: "\f135"; }
+.flaticon1-info:before { content: "\f136"; }
+.flaticon1-information:before { content: "\f137"; }
+.flaticon1-light:before { content: "\f138"; }
+.flaticon1-mechanic:before { content: "\f139"; }
+.flaticon1-oil:before { content: "\f13a"; }
+.flaticon1-oil-1:before { content: "\f13b"; }
+.flaticon1-parking:before { content: "\f13c"; }
+.flaticon1-parking-1:before { content: "\f13d"; }
+.flaticon1-parking-2:before { content: "\f13e"; }
+.flaticon1-piston:before { content: "\f13f"; }
+.flaticon1-radiator:before { content: "\f140"; }
+.flaticon1-seat-belt:before { content: "\f141"; }
+.flaticon1-seatbelt:before { content: "\f142"; }
+.flaticon1-spark-plug:before { content: "\f143"; }
+.flaticon1-steering-wheel:before { content: "\f144"; }
+.flaticon1-steering-wheel-1:before { content: "\f145"; }
+.flaticon1-suspension:before { content: "\f146"; }
+.flaticon1-temperature:before { content: "\f147"; }
+.flaticon1-tire:before { content: "\f148"; }
+.flaticon1-turbine:before { content: "\f149"; }
+.flaticon1-warning:before { content: "\f14a"; }
+.flaticon1-warning-1:before { content: "\f14b"; }
+.flaticon1-window:before { content: "\f14c"; }
+.flaticon1-window-1:before { content: "\f14d"; }
+.flaticon1-windshield:before { content: "\f14e"; }
+.flaticon1-windshield-1:before { content: "\f14f"; }
+.flaticon1-081-warning:before { content: "\f14a"; }
+.flaticon1-081-warning-1:before { content: "\f14b"; }
+.flaticon1-081-window:before { content: "\f14c"; }
+.flaticon1-081-window-1:before { content: "\f14d"; }
+.flaticon1-081-windshield:before { content: "\f14e"; }
+.flaticon1-081-windshield-1:before { content: "\f14f"; }

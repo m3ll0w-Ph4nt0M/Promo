@@ -1,0 +1,131 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:02
+  	*/
+
+@font-face {
+  font-family: "Flaticon3";
+  src: url("./Flaticon3.eot");
+  src: url("./Flaticon3.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon3.woff") format("woff"),
+       url("./Flaticon3.ttf") format("truetype"),
+       url("./Flaticon3.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon3";
+    src: url("./Flaticon3.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon3-"]:before, [class*=" flaticon3-"]:before,
+[class^="flaticon3-"]:after, [class*=" flaticon3-"]:after {   
+  font-family: Flaticon3;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon3-ambulance-facing-left:before { content: "\f100"; }
+.flaticon3-bicycle-sprockets:before { content: "\f101"; }
+.flaticon3-big-ambulance-facing-left:before { content: "\f102"; }
+.flaticon3-big-bus-front:before { content: "\f103"; }
+.flaticon3-big-truck:before { content: "\f104"; }
+.flaticon3-brand-new-car-with-dollar-price-tag:before { content: "\f105"; }
+.flaticon3-bus-at-a-gasoline-station:before { content: "\f106"; }
+.flaticon3-bus-front:before { content: "\f107"; }
+.flaticon3-bus-front-view:before { content: "\f108"; }
+.flaticon3-bus-in-reparation:before { content: "\f109"; }
+.flaticon3-bus-with-a-compass:before { content: "\f10a"; }
+.flaticon3-bus-with-compass:before { content: "\f10b"; }
+.flaticon3-car-and-headphones:before { content: "\f10c"; }
+.flaticon3-car-and-padlock:before { content: "\f10d"; }
+.flaticon3-car-at-gas-station:before { content: "\f10e"; }
+.flaticon3-car-battery:before { content: "\f10f"; }
+.flaticon3-car-beacon-on:before { content: "\f110"; }
+.flaticon3-car-crane:before { content: "\f111"; }
+.flaticon3-car-for-sale:before { content: "\f112"; }
+.flaticon3-car-front-in-magnifier-glass:before { content: "\f113"; }
+.flaticon3-car-front-view-beside-a-traffic-meter:before { content: "\f114"; }
+.flaticon3-car-in-a-garage:before { content: "\f115"; }
+.flaticon3-car-in-a-gas-station:before { content: "\f116"; }
+.flaticon3-car-inside-a-garage:before { content: "\f117"; }
+.flaticon3-car-key:before { content: "\f118"; }
+.flaticon3-car-lifter:before { content: "\f119"; }
+.flaticon3-car-light:before { content: "\f11a"; }
+.flaticon3-car-on-an-elevator:before { content: "\f11b"; }
+.flaticon3-car-repair-check:before { content: "\f11c"; }
+.flaticon3-car-repair-check-list:before { content: "\f11d"; }
+.flaticon3-car-repairing:before { content: "\f11e"; }
+.flaticon3-car-sale-in-euros:before { content: "\f11f"; }
+.flaticon3-car-seat-belt:before { content: "\f120"; }
+.flaticon3-car-speedometer:before { content: "\f121"; }
+.flaticon3-car-steering-wheel:before { content: "\f122"; }
+.flaticon3-car-temperature:before { content: "\f123"; }
+.flaticon3-car-tire-change:before { content: "\f124"; }
+.flaticon3-car-wash:before { content: "\f125"; }
+.flaticon3-car-wash-machine:before { content: "\f126"; }
+.flaticon3-car-wheel:before { content: "\f127"; }
+.flaticon3-car-with-an-umbrella:before { content: "\f128"; }
+.flaticon3-car-with-cogwheels:before { content: "\f129"; }
+.flaticon3-car-with-euro-symbol:before { content: "\f12a"; }
+.flaticon3-car-with-heat-problems:before { content: "\f12b"; }
+.flaticon3-car-with-padlock:before { content: "\f12c"; }
+.flaticon3-car-with-repair-equipment:before { content: "\f12d"; }
+.flaticon3-car-with-umbrella:before { content: "\f12e"; }
+.flaticon3-car-with-wrench:before { content: "\f12f"; }
+.flaticon3-car-wrenc-and-cogwheels:before { content: "\f130"; }
+.flaticon3-cargo-truck-facing-left:before { content: "\f131"; }
+.flaticon3-cart-wheel:before { content: "\f132"; }
+.flaticon3-change-car-oil:before { content: "\f133"; }
+.flaticon3-changing-car-tire:before { content: "\f134"; }
+.flaticon3-changing-wheels-tool:before { content: "\f135"; }
+.flaticon3-convertible-car:before { content: "\f136"; }
+.flaticon3-driving-gear-controls:before { content: "\f137"; }
+.flaticon3-electric-car-and-plug:before { content: "\f138"; }
+.flaticon3-emergency-car-facing-right:before { content: "\f139"; }
+.flaticon3-emergency-medical-vehicle:before { content: "\f13a"; }
+.flaticon3-fuel-counter:before { content: "\f13b"; }
+.flaticon3-garage-elevator:before { content: "\f13c"; }
+.flaticon3-gasoline-refilling-station:before { content: "\f13d"; }
+.flaticon3-glass-wiper:before { content: "\f13e"; }
+.flaticon3-jeep-front:before { content: "\f13f"; }
+.flaticon3-jeep-front-view:before { content: "\f140"; }
+.flaticon3-limousine-side-view:before { content: "\f141"; }
+.flaticon3-lorry-side-view:before { content: "\f142"; }
+.flaticon3-machine-connector-plug:before { content: "\f143"; }
+.flaticon3-mechanical-service-of-a-car:before { content: "\f144"; }
+.flaticon3-oil-can-with-big-drop:before { content: "\f145"; }
+.flaticon3-pick-up-truck:before { content: "\f146"; }
+.flaticon3-pistons-cross:before { content: "\f147"; }
+.flaticon3-police-car-with-light:before { content: "\f148"; }
+.flaticon3-police-car-with-lights:before { content: "\f149"; }
+.flaticon3-police-car-with-steering-wheel:before { content: "\f14a"; }
+.flaticon3-public-bus:before { content: "\f14b"; }
+.flaticon3-rectangular-car:before { content: "\f14c"; }
+.flaticon3-rectangular-car-front:before { content: "\f14d"; }
+.flaticon3-red-cross-car:before { content: "\f14e"; }
+.flaticon3-repair-mechanism:before { content: "\f14f"; }
+.flaticon3-repair-wrenches:before { content: "\f150"; }
+.flaticon3-repairing-bus:before { content: "\f151"; }
+.flaticon3-repairing-car:before { content: "\f152"; }
+.flaticon3-round-compass:before { content: "\f153"; }
+.flaticon3-searching-for-car:before { content: "\f154"; }
+.flaticon3-small-car:before { content: "\f155"; }
+.flaticon3-taxi-facing-left:before { content: "\f156"; }
+.flaticon3-taxi-side:before { content: "\f157"; }
+.flaticon3-traffic-light:before { content: "\f158"; }
+.flaticon3-transportation-truck:before { content: "\f159"; }
+.flaticon3-triangular-tent:before { content: "\f15a"; }
+.flaticon3-truck-side-view:before { content: "\f15b"; }
+.flaticon3-truck-with-an-antenna-on-it:before { content: "\f15c"; }
+.flaticon3-truck-with-crane:before { content: "\f15d"; }
+.flaticon3-two-cogwheels:before { content: "\f15e"; }
+.flaticon3-van-an-antenna:before { content: "\f15f"; }
+.flaticon3-van-facing-left:before { content: "\f160"; }
+.flaticon3-van-side-view:before { content: "\f161"; }
+.flaticon3-water-tank-for-vehicles:before { content: "\f162"; }
+.flaticon3-zipper:before { content: "\f163"; }

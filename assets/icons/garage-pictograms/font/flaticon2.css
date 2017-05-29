@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 03/02/2017 10:12
+  	*/
+
+@font-face {
+  font-family: "Flaticon2";
+  src: url("./Flaticon2.eot");
+  src: url("./Flaticon2.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon2.woff") format("woff"),
+       url("./Flaticon2.ttf") format("truetype"),
+       url("./Flaticon2.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon2";
+    src: url("./Flaticon2.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon2-"]:before, [class*=" flaticon2-"]:before,
+[class^="flaticon2-"]:after, [class*=" flaticon2-"]:after {   
+  font-family: Flaticon2;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon2-accident:before { content: "\f100"; }
+.flaticon2-car:before { content: "\f101"; }
+.flaticon2-car-1:before { content: "\f102"; }
+.flaticon2-car-2:before { content: "\f103"; }
+.flaticon2-car-3:before { content: "\f104"; }
+.flaticon2-car-4:before { content: "\f105"; }
+.flaticon2-car-5:before { content: "\f106"; }
+.flaticon2-car-6:before { content: "\f107"; }
+.flaticon2-car-7:before { content: "\f108"; }
+.flaticon2-car-breakdown:before { content: "\f109"; }
+.flaticon2-car-breakdown-1:before { content: "\f10a"; }
+.flaticon2-car-breakdown-2:before { content: "\f10b"; }
+.flaticon2-car-breakdown-3:before { content: "\f10c"; }
+.flaticon2-car-breakdown-4:before { content: "\f10d"; }
+.flaticon2-car-breakdown-5:before { content: "\f10e"; }
+.flaticon2-car-breakdown-6:before { content: "\f10f"; }
+.flaticon2-car-breakdown-7:before { content: "\f110"; }
+.flaticon2-car-breakdown-8:before { content: "\f111"; }
+.flaticon2-car-repair:before { content: "\f112"; }
+.flaticon2-car-repair-1:before { content: "\f113"; }
+.flaticon2-car-repair-10:before { content: "\f114"; }
+.flaticon2-car-repair-11:before { content: "\f115"; }
+.flaticon2-car-repair-12:before { content: "\f116"; }
+.flaticon2-car-repair-13:before { content: "\f117"; }
+.flaticon2-car-repair-2:before { content: "\f118"; }
+.flaticon2-car-repair-3:before { content: "\f119"; }
+.flaticon2-car-repair-4:before { content: "\f11a"; }
+.flaticon2-car-repair-5:before { content: "\f11b"; }
+.flaticon2-car-repair-6:before { content: "\f11c"; }
+.flaticon2-car-repair-7:before { content: "\f11d"; }
+.flaticon2-car-repair-8:before { content: "\f11e"; }
+.flaticon2-car-repair-9:before { content: "\f11f"; }
+.flaticon2-car-wash:before { content: "\f120"; }
+.flaticon2-car-wash-1:before { content: "\f121"; }
+.flaticon2-crash-test:before { content: "\f122"; }
+.flaticon2-parking:before { content: "\f123"; }
+.flaticon2-refuel:before { content: "\f124"; }
+.flaticon2-rent-a-car:before { content: "\f125"; }
+.flaticon2-welder:before { content: "\f126"; }
+.flaticon2-wheel:before { content: "\f127"; }

@@ -1,0 +1,182 @@
+
+.black-carbon-bg {
+    background-image: url("../assets/patterns/carbon_fibre_big/1.png");
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-size: 10px;
+    overflow: hidden;
+}
+.white-carbon-bg {
+    background-image: url("../assets/patterns/white_carbon/1.png");
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-size: 15px;
+    overflow: hidden;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------*/
+/*FOOTER*/
+
+#footer_section_1 {
+  height: 100%;
+}
+#footer-container
+{
+  background-color: rgb(217,217,217);
+}
+.vertical-center {
+  min-height: 95%;
+  min-height: 95vh;
+  display: flex;
+  align-items: center;
+}
+.horizontal-center {
+    margin: 0 auto;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------*/
+
+/*SERVICES*/
+
+#image_div {
+    display: flex;
+    padding-left: 0px;
+}
+#service-img {
+  height: 380px;
+  width: 100%;
+}
+.responsive-img {
+    padding: 0px;
+    display: flex;
+}
+.flaticon2-car-1:before, .flaticon2-car-1:after,
+.flaticon2-rent-a-car:before, .flaticon2-rent-a-car:after
+{
+  font-size: 48px !important;
+}
+.flaticon3-big-truck:before, .flaticon3-big-truck:after,
+.flaticon1-car-4:before, .flaticon1-car-4:after,
+.flaticon3-car-repair-check:before, .flaticon3-car-repair-check:after,
+.flaticon2-car-2:before, .flaticon2-car-2:after,
+.flaticon2-car-breakdown-7:before, .flaticon2-car-breakdown-7:after,
+.flaticon2-car-repair:before, .flaticon2-car-repair:after,
+.flaticon1-piston:before, .flaticon1-piston:after,
+.flaticon3-bus-in-reparation:before, .flaticon3-bus-in-reparation:after,
+.flaticon2-car-repair-1:before, .flaticon2-car-repair-1:after,
+.flaticon2-car-repair-5:before, .flaticon2-car-repair-5:after
+{
+  font-size: 70px !important;
+}
+#service_cards ul {padding-left: 20px;}
+#service_cards p  {padding-top: 10px;}
+
+/*-------------------------------------------------------------------------------------------------------------------------*/
+ /*Contact*/
+
+.flaticon1-mechanic:before, .flaticon1-mechanic:after
+{
+  font-size: 48px !important;
+}
+.fa-phone-square:before, .fa-phone-square:after,
+.fa-map-marker:before, .fa-map-marker:after,
+.fa-fax:before, .fa-fax:after 
+{
+  font-size: 50px !important;
+}
+.fa-car:before, .fa-car:after,
+.fa-clock-o:before, .fa-clock-o:after,
+.fa-phone:before, .fa-phone:after 
+{
+  font-size: 50px !important;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th 
+{
+    padding: 0px;
+    vertical-align: top;
+    border: none;
+    font-weight: bold;
+}
+#time_table {
+  width: initial;
+  line-height: 0em;
+  border: none; 
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------*/ 
+/*Media Queries*/
+/*================*/
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 1px) {
+  .group_icon-med {
+      width: 90px; 
+      height: 58px !important;
+  }
+  .group_icon {
+      width: 80% !important; 
+      height: 140px !important;
+  }
+  #group-2 {
+    margin-bottom: 20px;
+  }
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+  .group_icon-med {
+      width: 150px; 
+      height: 58px !important;
+  }
+  .group_icon {
+      width: 80% !important; 
+      height: 250px !important;
+  }
+  #group-2 {
+    margin-bottom: 20px;
+  }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+  .group_icon-med {
+      width: 150px !important; 
+      height: 58px !important;
+  }
+  .group_icon {
+      width: 100% !important; 
+      height: 200px !important;
+  }
+  #group-2 {
+    margin-bottom: 0px;
+  }
+}
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+  .group_icon-med {
+      width: 170px; 
+      height: 98px !important;
+  }
+  .group_icon {
+      width: 100% !important; 
+      height: 200px !important;
+  }
+  #group-2 {
+    margin-bottom: 0px;
+  }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+  .group_icon-med {
+      width: 170px; 
+      height: 98px !important;
+  }
+  .group_icon {
+      width: 100% !important; 
+      height: 280px !important;
+  }
+  #group-2 {
+    margin-bottom: 0px;
+  }
+}
